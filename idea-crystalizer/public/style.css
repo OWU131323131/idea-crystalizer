@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: black;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+#ui {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+  color: white;
+}
+
+select, input, button {
+  margin-right: 5px;
+}
